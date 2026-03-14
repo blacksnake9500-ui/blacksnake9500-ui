@@ -13,3 +13,4 @@
   <img src="https://streak-stats.demolab.com?user=blacksnake9500-ui&cache_seconds=0" />
 </picture>
 </p>
+![Snake animation](https://github.com/blacksnake9500-ui/blacksnake9500-ui/blob/output/github-contribution-grid-snake.svg)
