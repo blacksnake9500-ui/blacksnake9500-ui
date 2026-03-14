@@ -1,1 +1,15 @@
 <h1 align="center">Islomjonov Salohiddin</h1>
+## 🔥 GitHub Streak
+
+<p align="center">
+  
+<picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=dark&cache_seconds=0" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=default&cache_seconds=0" 
+    media="(prefers-color-scheme: light)" />
+  <img src="https://streak-stats.demolab.com?user=blacksnake9500-ui&cache_seconds=0" />
+</picture>
+</p>
