@@ -14,13 +14,13 @@
 </p>
 ![Snake animation](https://github.com/blacksnake9500-ui/blacksnake9500-ui/blob/output/github-contribution-grid-snake.svg)
 
-## 🔧 Tech Insights
+## 📊 Tech Insights
 
-- 🚀 Built with modern technologies to ensure performance and scalability  
-- ⚡ Optimized for speed and efficiency  
-- 🧠 Clean and maintainable code structure  
-- 🔐 Focus on security and best practices  
-- 📱 Responsive design for all devices  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blacksnake9500-ui&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500-ui&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blacksnake9500-ui&theme=tokyo-night) 
 
 ## 💻 Tech Stack
 
