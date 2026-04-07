@@ -18,5 +18,5 @@
 ## 🏆 My GitHub Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=blacksnake9500&theme=dracula"/>
+<img src="https://github-trophies.vercel.app/?username=blacksnake9500-ui&theme=dracula"/>
 </div>
