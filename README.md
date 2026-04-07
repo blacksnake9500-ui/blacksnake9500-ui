@@ -14,3 +14,9 @@
 </picture>
 </p>
 ![Snake animation](https://github.com/blacksnake9500-ui/blacksnake9500-ui/blob/output/github-contribution-grid-snake.svg)
+
+## 🏆 My GitHub Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=blacksnake9500&theme=dracula"/>
+</div>
