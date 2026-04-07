@@ -22,6 +22,11 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blacksnake9500-ui&theme=tokyo-night) 
 
+## 🚀 Tech Insights
+
+### Top Languages (Donut Chart)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500-ui&layout=donut&theme=tokyonight)
+
 ## 💻 Tech Stack
 
 <p>
