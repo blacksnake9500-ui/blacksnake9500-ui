@@ -22,11 +22,35 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blacksnake9500-ui&theme=tokyo-night) 
 
-## 🚀 Tech Insights
+# Salom, men @blacksnake9500 👋
 
-### Top Languages (Donut Chart)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500-ui&layout=donut&theme=tokyonight)
+### 🐍 Full-Stack Developer | Tech Enthusiast
 
+---
+
+## 📊 GitHub Tech Insights
+
+| My Stats | Top Languages |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=blacksnake9500&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9) |
+
+---
+
+## 🚀 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blacksnake9500&theme=github-dark-green&hide_border=true&area=true)
+
+---
+
+## 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,python,git,docker,vscode" />
+</p>
+
+---
+
+## 📬 Bog'lanish uchun:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 ## 💻 Tech Stack
 
 <p>
