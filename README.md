@@ -1,5 +1,6 @@
 <h1 align="center">Islomjonov Salohiddin</h1>
 ## 🔥 GitHub Streak
+<img src"balck snake icon.png"/>
 
 <p align="center">
   
