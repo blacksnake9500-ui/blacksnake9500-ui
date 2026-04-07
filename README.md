@@ -27,4 +27,4 @@
 <img src="https://github-trophies.vercel.app/?username=blacksnake9500-ui&theme=dracula"/>
 </div>
 
-<img align="center" src="balck snake icon.png" width="500" heigth="500"/>
+<img align="center" src="balck snake icon.png" width="200" heigth="200"/>
