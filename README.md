@@ -1,7 +1,5 @@
 <h1 align="center">Islomjonov Salohiddin</h1>
 ## 🔥 GitHub Streak
-
-
 <p align="center">
   
 <picture>
@@ -15,6 +13,13 @@
 </picture>
 </p>
 ![Snake animation](https://github.com/blacksnake9500-ui/blacksnake9500-ui/blob/output/github-contribution-grid-snake.svg)
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,sass,flutter,dart,php,kotlin,python,git,github,cpp,cs" />
+</p>
+
 
 ## 🏆 My GitHub Trophies
 
