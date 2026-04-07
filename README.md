@@ -1,6 +1,6 @@
 <h1 align="center">Islomjonov Salohiddin</h1>
 ## 🔥 GitHub Streak
-<img src"balck snake icon.png"/>
+
 
 <p align="center">
   
@@ -21,3 +21,5 @@
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=blacksnake9500-ui&theme=dracula"/>
 </div>
+
+<img src="balck snake icon.png"/>
