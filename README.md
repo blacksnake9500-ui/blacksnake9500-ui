@@ -16,14 +16,21 @@
 
 # 🚀 Tech Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500&layout=donut&theme=tokyonight&hide_border=true&title_color=38bdf8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=38bdf8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" width="100%" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500&layout=donut&theme=tokyonight&title_color=38bdf8&hide_border=true" width="400px" alt="Top Languages by Repo" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500&layout=donut-vertical&theme=tokyonight&title_color=38bdf8&hide_border=true" width="400px" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnake9500&layout=compact&theme=tokyonight&title_color=38bdf8&hide_border=true" width="100%" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 ## 💻 Tech Stack
 
