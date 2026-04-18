@@ -15,7 +15,7 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Abdumajidov2005/Abdumajidov2005/gh-pages/snake.svg" />
+<img src="https://raw.githubusercontent.com/blacksnake9500-ui/blacksnake9500-ui/gh-pages/snake.svg" />
 
 
 
