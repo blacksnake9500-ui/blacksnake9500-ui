@@ -1,4 +1,9 @@
 <h1 align="center">Islomjonov Salohiddin</h1>
+
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;Open+Source+Lover)](https://git.io/typing-svg)
+
+  
 ## 🔥 GitHub Streak
 <p align="center">
 
