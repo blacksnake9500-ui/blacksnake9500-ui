@@ -17,13 +17,7 @@
 
 ---
 
-# ☠️ SUKUNA SYSTEM
 
-```bash
-> CURSED ENERGY : MAXIMUM
-> DOMAIN         : MALEVOLENT SHRINE
-> STATUS         : AWAKENED
-> AURA           : DARK RED
   
 ## 🔥 GitHub Streak
 <p align="center">
