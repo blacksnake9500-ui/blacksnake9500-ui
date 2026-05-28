@@ -3,7 +3,27 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;Open+Source+Lover)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=250&section=header&text=BLACK%20SNAKE&fontSize=50&fontColor=ff0000&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=250&section=header&text=SALOHIDDIN&fontSize=50&fontColor=ff0000&animation=fadeIn&fontAlignY=40"/>
+
+<!-- SUKUNA AURA README -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:3a0000,100:ff0000&text=RYOMEN%20SUKUNA&fontSize=60&fontColor=ff0000&animation=fadeIn&fontAlignY=38&desc=King%20of%20Curses&descAlignY=58&descAlign=50"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Domain+Expansion+%E2%80%94+Malevolent+Shrine;The+King+of+Curses;Power+Beyond+Humanity;BLACK+SNAKE"/>
+</p>
+
+---
+
+# ☠️ SUKUNA SYSTEM
+
+```bash
+> CURSED ENERGY : MAXIMUM
+> DOMAIN         : MALEVOLENT SHRINE
+> STATUS         : AWAKENED
+> AURA           : DARK RED
   
 ## 🔥 GitHub Streak
 <p align="center">
