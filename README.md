@@ -39,6 +39,8 @@
 </picture>
 </p>
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,react,github,vscode&theme=dark"/> </p>
+
 ## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Abdumajidov2005/Abdumajidov2005/gh-pages/snake.svg" />
