@@ -35,8 +35,7 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Abdumajidov2005/Abdumajidov2005/gh-pages/snake.svg" />
-
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
 
 
 ## 💻 Tech Stack
