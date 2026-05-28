@@ -53,3 +53,5 @@
 </div>
 
 <img align="center" src="balck snake icon.png" width="200" heigth="200"/>
+
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=550000"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/> </p>
