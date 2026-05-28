@@ -3,6 +3,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;Open+Source+Lover)](https://git.io/typing-svg)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=250&section=header&text=BLACK%20SNAKE&fontSize=50&fontColor=ff0000&animation=fadeIn&fontAlignY=40"/>
   
 ## 🔥 GitHub Streak
 <p align="center">
