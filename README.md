@@ -29,7 +29,7 @@
     />
     <source
       srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=default&cache_seconds=0"
-      media="(prefers-color-scheme: light)"
+      media="(prefers-color-scheme: dark)"
     />
     <img
       src="https://streak-stats.demolab.com?user=blacksnake9500-ui&cache_seconds=0"
