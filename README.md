@@ -20,17 +20,22 @@
 
   
 ## 🔥 GitHub Streak
-<p align="center">
 
-<picture>
-  <source 
-    srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=dark&cache_seconds=0" 
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=default&cache_seconds=0" 
-    media="(prefers-color-scheme: light)" />
-  <img src="https://streak-stats.demolab.com?user=blacksnake9500-ui&cache_seconds=0" />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=dark&cache_seconds=0"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=default&cache_seconds=0"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=blacksnake9500-ui&cache_seconds=0"
+      alt="GitHub Streak"
+    />
+  </picture>
 </p>
 
 ## 💻 Tech Stack
