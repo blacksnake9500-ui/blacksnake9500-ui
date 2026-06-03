@@ -24,7 +24,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=dark&cache_seconds=0"
+      srcset="https://streak-stats.demolab.com/?user=blacksnake9500-ui"
       media="(prefers-color-scheme: dark)"
     />
     <source
