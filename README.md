@@ -3,7 +3,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;Open+Source+Lover)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Time&weight=900&size=40&letterSpacing=20&duration=4000&pause=1000&color=F70000&width=535&height=60&lines=++%EF%B8%BB%E3%83%87%E2%95%90%E4%B8%80;+%EF%B8%BB%E2%94%B3%E2%95%90%E4%B8%80+;%EF%B8%BB%E2%95%A6%CC%B5%CC%B5%CD%87%CC%BF%CC%BF%CC%BF%CC%BF%E2%95%A4%E2%94%80%E2%94%80%E2%94%80;%E2%96%84%EF%B8%BB%E2%94%B3%E2%95%A6%E2%95%90%E2%95%90%E4%B8%80%E4%B8%80++++++%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%EF%BA%A4+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Time&weight=900&size=35&letterSpacing=20&duration=4000&pause=1000&color=F70000&width=535&height=60&lines=++%EF%B8%BB%E3%83%87%E2%95%90%E4%B8%80++;%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%EF%BA%A4%E2%9A%A1;%EF%B8%BB%E2%95%A6%CC%B5%CC%B5%CD%87%CC%BF%CC%BF%CC%BF%CC%BF%E2%95%A4%E2%94%80%E2%94%80%E2%94%80+++%E4%BA%97+COBRA+%E4%BA%97;%E2%96%84%EF%B8%BB%E2%94%B3%E2%95%A6%E2%95%90%E2%95%90%E4%B8%80%E4%B8%80++++++%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%EF%BA%A4+%E2%9A%A1)](https://git.io/typing-svg)
 <!-- SUKUNA AURA README -->
 
 <p align="center">
@@ -35,12 +35,7 @@
 
 ---
 
-## 📈 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
----
 
 
 
