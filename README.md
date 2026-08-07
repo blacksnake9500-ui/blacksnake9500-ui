@@ -17,7 +17,7 @@
 
 ---
 --->
-https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=King%20Cobra&section=header&reversal=true&textBg=false&fontColor=red&fontAlign=51&fontAlignY=41&animation=twinkling&strokeWidth=6&stroke=ff0000&desc=︻デ═一&descSize=40&descAlign=72&descAlignY=66
+<img width= "100%" src= "https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=King%20Cobra&section=header&reversal=true&textBg=false&fontColor=red&fontAlign=51&fontAlignY=41&animation=twinkling&strokeWidth=6&stroke=ff0000&desc=︻デ═一&descSize=40&descAlign=72&descAlignY=66">
 --->
 
 ## ⚒️ Tech Stack
