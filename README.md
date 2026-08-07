@@ -16,52 +16,9 @@
 </p>
 
 ---
+--->
 
-
-  
-## 🔥 GitHub Streak
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com/?user=blacksnake9500-ui"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=blacksnake9500-ui&theme=default&cache_seconds=0"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=blacksnake9500-ui&cache_seconds=0"
-      alt="GitHub Streak"
-    />
-  </picture>
-</p>
-
-## 💻 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,sass,dart,python,git,github,cpp,cs" />
-</p>
-
-<--! New readme -->
-<h1 align="center">Hi 👋, I'm Black Snake</h1>
-
-<h3 align="center">
-Frontend Developer | React Learner | Tech Enthusiast
-</h3>
-
----
-
-## 🧑‍💻 About Me
-
-- 🌱 Currently learning **React**
-- 💻 Passionate about Web Development
-- 🐍 Snake enthusiast
-- 🎮 Anime & Gaming Fan
-- 🚀 Always learning something new
-
----
+--->
 
 ## ⚒️ Tech Stack
 
@@ -84,17 +41,9 @@ Frontend Developer | React Learner | Tech Enthusiast
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
-
-## 💭 Favorite Quote
-
-> "Keep learning. Stay curious."
-
 ---
 
-<p align="center">
-⚡ Thanks for visiting my profile.
-</p>
-<--! New readme -->
+
 
 ## 🏆 My GitHub Trophies
 
