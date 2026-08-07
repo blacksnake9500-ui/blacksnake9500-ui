@@ -3,7 +3,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;Open+Source+Lover)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=250&section=header&text=SALOHIDDIN&fontSize=50&fontColor=ff0000&animation=fadeIn&fontAlignY=40"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Time&weight=800&size=25&duration=4000&pause=1000&color=F70000&width=435&lines=Domain+Expansion+;Malevolent+Shrine++%EF%B8%BB%E3%83%87%E2%95%90%E4%B8%80)](https://git.io/typing-svg)
 
 <!-- SUKUNA AURA README -->
 
@@ -15,10 +15,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Domain+Expansion+%E2%80%94+Malevolent+Shrine;The+King+of+Curses;Power+Beyond+Humanity;BLACK+SNAKE"/>
 </p>
 
----
---->
-<img width= "100%" src= "https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=King%20Cobra&section=header&reversal=true&textBg=false&fontColor=red&fontAlign=51&fontAlignY=41&animation=twinkling&strokeWidth=6&stroke=ff0000&desc=︻デ═一&descSize=40&descAlign=72&descAlignY=66">
---->
+
+
+<!-- <img width= "100%" src= "https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=King%20Cobra&section=header&reversal=true&textBg=false&fontColor=red&fontAlign=51&fontAlignY=41&animation=twinkling&strokeWidth=6&stroke=ff0000&desc=︻デ═一&descSize=40&descAlign=72&descAlignY=66"> -->
+
 
 ## ⚒️ Tech Stack
 
