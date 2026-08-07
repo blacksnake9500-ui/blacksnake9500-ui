@@ -44,6 +44,57 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,sass,dart,python,git,github,cpp,cs" />
 </p>
 
+<--! New readme -->
+<h1 align="center">Hi 👋, I'm Black Snake</h1>
+
+<h3 align="center">
+Frontend Developer | React Learner | Tech Enthusiast
+</h3>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently learning **React**
+- 💻 Passionate about Web Development
+- 🐍 Snake enthusiast
+- 🎮 Anime & Gaming Fan
+- 🚀 Always learning something new
+
+---
+
+## ⚒️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 💭 Favorite Quote
+
+> "Keep learning. Stay curious."
+
+---
+
+<p align="center">
+⚡ Thanks for visiting my profile.
+</p>
+<--! New readme -->
 
 ## 🏆 My GitHub Trophies
 
